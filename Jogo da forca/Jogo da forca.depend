@@ -18,19 +18,3 @@
 	<stdio.h>
 	"funcoes.h"
 
-1571160347 source:c:\users\aluno.info16\desktop\jogo da forca\funcoes.c
-	<stdio.h>
-	<stdlib.h>
-	"funcoes.h"
-	<string.h>
-
-1571161157 c:\users\aluno.info16\desktop\jogo da forca\funcoes.h
-
-1571161086 source:c:\users\aluno.info16\desktop\jogo da forca\main.c
-	<stdio.h>
-	<conio.h>
-	<stdlib.h>
-	<time.h>
-	"funcoes.h"
-	<string.h>
-
